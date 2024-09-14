@@ -44,7 +44,7 @@ void read_file(std::string_view  name,int id_case = 0, bool skip_case_id = false
 					continue;
 
 
-			const auto loot = "{" + std::format( "{},{}", m_definition_index, m_paint_kit ) + "},";
+			const auto loot = "{" + std::format( "{},{}", m_definition_index, m_paint_kit ) + "},\n";
 			std::cout << loot.data() << std::endl;
 			write_file( loot.c_str() );
 		}
