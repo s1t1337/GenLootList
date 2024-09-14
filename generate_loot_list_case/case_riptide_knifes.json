@@ -1,0 +1,1231 @@
+{
+    "inventory": {
+        "items": 41,
+        "slot_0": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 34,
+                "color0_g": 69,
+                "color0_r": 2,
+                "color1_a": 255,
+                "color1_b": 1,
+                "color1_g": 15,
+                "color1_r": 15,
+                "color2_a": 255,
+                "color2_b": 17,
+                "color2_g": 13,
+                "color2_r": 1,
+                "color3_a": 255,
+                "color3_b": 22,
+                "color3_g": 2,
+                "color3_r": 8
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 568,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_1": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 27,
+                "color0_g": 14,
+                "color0_r": 11,
+                "color1_a": 255,
+                "color1_b": 12,
+                "color1_g": 22,
+                "color1_r": 30,
+                "color2_a": 255,
+                "color2_b": 45,
+                "color2_g": 98,
+                "color2_r": 13,
+                "color3_a": 255,
+                "color3_b": 27,
+                "color3_g": 14,
+                "color3_r": 11
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 569,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_10": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 34,
+                "color0_g": 69,
+                "color0_r": 2,
+                "color1_a": 255,
+                "color1_b": 1,
+                "color1_g": 15,
+                "color1_r": 15,
+                "color2_a": 255,
+                "color2_b": 17,
+                "color2_g": 13,
+                "color2_r": 1,
+                "color3_a": 255,
+                "color3_b": 22,
+                "color3_g": 2,
+                "color3_r": 8
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 568,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_11": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 27,
+                "color0_g": 14,
+                "color0_r": 11,
+                "color1_a": 255,
+                "color1_b": 12,
+                "color1_g": 22,
+                "color1_r": 30,
+                "color2_a": 255,
+                "color2_b": 45,
+                "color2_g": 98,
+                "color2_r": 13,
+                "color3_a": 255,
+                "color3_b": 27,
+                "color3_g": 14,
+                "color3_r": 11
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 569,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_12": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 18,
+                "color0_g": 15,
+                "color0_r": 9,
+                "color1_a": 255,
+                "color1_b": 45,
+                "color1_g": 99,
+                "color1_r": 9,
+                "color2_a": 255,
+                "color2_b": 12,
+                "color2_g": 30,
+                "color2_r": 23,
+                "color3_a": 255,
+                "color3_b": 49,
+                "color3_g": 99,
+                "color3_r": 9
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 570,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_13": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 15,
+                "color0_g": 8,
+                "color0_r": 6,
+                "color1_a": 255,
+                "color1_b": 117,
+                "color1_g": 105,
+                "color1_r": 23,
+                "color2_a": 255,
+                "color2_b": 13,
+                "color2_g": 63,
+                "color2_r": 6,
+                "color3_a": 255,
+                "color3_b": 9,
+                "color3_g": 28,
+                "color3_r": 20
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 571,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_14": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 18,
+                "color0_g": 9,
+                "color0_r": 7,
+                "color1_a": 255,
+                "color1_b": 103,
+                "color1_g": 117,
+                "color1_r": 23,
+                "color2_a": 255,
+                "color2_b": 43,
+                "color2_g": 165,
+                "color2_r": 97,
+                "color3_a": 255,
+                "color3_b": 9,
+                "color3_g": 26,
+                "color3_r": 28
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 572,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_15": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 92,
+                "color0_g": 45,
+                "color0_r": 35,
+                "color1_a": 255,
+                "color1_b": 128,
+                "color1_g": 124,
+                "color1_r": 108,
+                "color2_a": 255,
+                "color2_b": 113,
+                "color2_g": 75,
+                "color2_r": 51,
+                "color3_a": 255,
+                "color3_b": 58,
+                "color3_g": 46,
+                "color3_r": 39
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 579,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_16": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 20,
+                "color0_g": 20,
+                "color0_r": 20,
+                "color1_a": 255,
+                "color1_b": 26,
+                "color1_g": 26,
+                "color1_r": 26,
+                "color2_a": 255,
+                "color2_b": 47,
+                "color2_g": 14,
+                "color2_r": 26,
+                "color3_a": 255,
+                "color3_b": 76,
+                "color3_g": 76,
+                "color3_r": 76
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 581,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_17": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 128,
+                "color0_g": 128,
+                "color0_r": 128,
+                "color1_a": 255,
+                "color1_b": 128,
+                "color1_g": 128,
+                "color1_r": 128,
+                "color2_a": 255,
+                "color2_b": 128,
+                "color2_g": 128,
+                "color2_r": 128,
+                "color3_a": 255,
+                "color3_b": 128,
+                "color3_g": 128,
+                "color3_r": 128
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 1104,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_18": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 255,
+                "color0_g": 255,
+                "color0_r": 255,
+                "color1_a": 255,
+                "color1_b": 255,
+                "color1_g": 255,
+                "color1_r": 255,
+                "color2_a": 255,
+                "color2_b": 197,
+                "color2_g": 216,
+                "color2_r": 232,
+                "color3_a": 255,
+                "color3_b": 208,
+                "color3_g": 225,
+                "color3_r": 232
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 1109,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_19": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 255,
+                "color0_g": 255,
+                "color0_r": 255,
+                "color1_a": 255,
+                "color1_b": 255,
+                "color1_g": 255,
+                "color1_r": 255,
+                "color2_a": 255,
+                "color2_b": 141,
+                "color2_g": 155,
+                "color2_r": 162,
+                "color3_a": 255,
+                "color3_b": 211,
+                "color3_g": 215,
+                "color3_r": 222
+            },
+            "custom_name": "",
+            "def_index": 514,
+            "paint_kit": 1114,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_2": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 18,
+                "color0_g": 15,
+                "color0_r": 9,
+                "color1_a": 255,
+                "color1_b": 45,
+                "color1_g": 99,
+                "color1_r": 9,
+                "color2_a": 255,
+                "color2_b": 12,
+                "color2_g": 30,
+                "color2_r": 23,
+                "color3_a": 255,
+                "color3_b": 49,
+                "color3_g": 99,
+                "color3_r": 9
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 570,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_20": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 34,
+                "color0_g": 69,
+                "color0_r": 2,
+                "color1_a": 255,
+                "color1_b": 1,
+                "color1_g": 15,
+                "color1_r": 15,
+                "color2_a": 255,
+                "color2_b": 17,
+                "color2_g": 13,
+                "color2_r": 1,
+                "color3_a": 255,
+                "color3_b": 22,
+                "color3_g": 2,
+                "color3_r": 8
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 568,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_21": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 27,
+                "color0_g": 14,
+                "color0_r": 11,
+                "color1_a": 255,
+                "color1_b": 12,
+                "color1_g": 22,
+                "color1_r": 30,
+                "color2_a": 255,
+                "color2_b": 45,
+                "color2_g": 98,
+                "color2_r": 13,
+                "color3_a": 255,
+                "color3_b": 27,
+                "color3_g": 14,
+                "color3_r": 11
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 569,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_22": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 18,
+                "color0_g": 15,
+                "color0_r": 9,
+                "color1_a": 255,
+                "color1_b": 45,
+                "color1_g": 99,
+                "color1_r": 9,
+                "color2_a": 255,
+                "color2_b": 12,
+                "color2_g": 30,
+                "color2_r": 23,
+                "color3_a": 255,
+                "color3_b": 49,
+                "color3_g": 99,
+                "color3_r": 9
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 570,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_23": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 15,
+                "color0_g": 8,
+                "color0_r": 6,
+                "color1_a": 255,
+                "color1_b": 117,
+                "color1_g": 105,
+                "color1_r": 23,
+                "color2_a": 255,
+                "color2_b": 13,
+                "color2_g": 63,
+                "color2_r": 6,
+                "color3_a": 255,
+                "color3_b": 9,
+                "color3_g": 28,
+                "color3_r": 20
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 571,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_24": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 18,
+                "color0_g": 9,
+                "color0_r": 7,
+                "color1_a": 255,
+                "color1_b": 103,
+                "color1_g": 117,
+                "color1_r": 23,
+                "color2_a": 255,
+                "color2_b": 43,
+                "color2_g": 165,
+                "color2_r": 97,
+                "color3_a": 255,
+                "color3_b": 9,
+                "color3_g": 26,
+                "color3_r": 28
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 572,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_25": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 92,
+                "color0_g": 45,
+                "color0_r": 35,
+                "color1_a": 255,
+                "color1_b": 128,
+                "color1_g": 124,
+                "color1_r": 108,
+                "color2_a": 255,
+                "color2_b": 113,
+                "color2_g": 75,
+                "color2_r": 51,
+                "color3_a": 255,
+                "color3_b": 58,
+                "color3_g": 46,
+                "color3_r": 39
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 579,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_26": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 20,
+                "color0_g": 20,
+                "color0_r": 20,
+                "color1_a": 255,
+                "color1_b": 26,
+                "color1_g": 26,
+                "color1_r": 26,
+                "color2_a": 255,
+                "color2_b": 47,
+                "color2_g": 14,
+                "color2_r": 26,
+                "color3_a": 255,
+                "color3_b": 76,
+                "color3_g": 76,
+                "color3_r": 76
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 581,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_27": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 128,
+                "color0_g": 128,
+                "color0_r": 128,
+                "color1_a": 255,
+                "color1_b": 128,
+                "color1_g": 128,
+                "color1_r": 128,
+                "color2_a": 255,
+                "color2_b": 128,
+                "color2_g": 128,
+                "color2_r": 128,
+                "color3_a": 255,
+                "color3_b": 128,
+                "color3_g": 128,
+                "color3_r": 128
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 1105,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_28": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 255,
+                "color0_g": 255,
+                "color0_r": 255,
+                "color1_a": 255,
+                "color1_b": 255,
+                "color1_g": 255,
+                "color1_r": 255,
+                "color2_a": 255,
+                "color2_b": 197,
+                "color2_g": 216,
+                "color2_r": 232,
+                "color3_a": 255,
+                "color3_b": 208,
+                "color3_g": 225,
+                "color3_r": 232
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 1110,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_29": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 255,
+                "color0_g": 255,
+                "color0_r": 255,
+                "color1_a": 255,
+                "color1_b": 255,
+                "color1_g": 255,
+                "color1_r": 255,
+                "color2_a": 255,
+                "color2_b": 141,
+                "color2_g": 155,
+                "color2_r": 162,
+                "color3_a": 255,
+                "color3_b": 211,
+                "color3_g": 215,
+                "color3_r": 222
+            },
+            "custom_name": "",
+            "def_index": 515,
+            "paint_kit": 1115,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_3": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 15,
+                "color0_g": 8,
+                "color0_r": 6,
+                "color1_a": 255,
+                "color1_b": 117,
+                "color1_g": 105,
+                "color1_r": 23,
+                "color2_a": 255,
+                "color2_b": 13,
+                "color2_g": 63,
+                "color2_r": 6,
+                "color3_a": 255,
+                "color3_b": 9,
+                "color3_g": 28,
+                "color3_r": 20
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 571,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_30": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 34,
+                "color0_g": 69,
+                "color0_r": 2,
+                "color1_a": 255,
+                "color1_b": 1,
+                "color1_g": 15,
+                "color1_r": 15,
+                "color2_a": 255,
+                "color2_b": 17,
+                "color2_g": 13,
+                "color2_r": 1,
+                "color3_a": 255,
+                "color3_b": 22,
+                "color3_g": 2,
+                "color3_r": 8
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 568,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_31": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 27,
+                "color0_g": 14,
+                "color0_r": 11,
+                "color1_a": 255,
+                "color1_b": 12,
+                "color1_g": 22,
+                "color1_r": 30,
+                "color2_a": 255,
+                "color2_b": 45,
+                "color2_g": 98,
+                "color2_r": 13,
+                "color3_a": 255,
+                "color3_b": 27,
+                "color3_g": 14,
+                "color3_r": 11
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 569,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_32": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 18,
+                "color0_g": 15,
+                "color0_r": 9,
+                "color1_a": 255,
+                "color1_b": 45,
+                "color1_g": 99,
+                "color1_r": 9,
+                "color2_a": 255,
+                "color2_b": 12,
+                "color2_g": 30,
+                "color2_r": 23,
+                "color3_a": 255,
+                "color3_b": 49,
+                "color3_g": 99,
+                "color3_r": 9
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 570,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_33": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 15,
+                "color0_g": 8,
+                "color0_r": 6,
+                "color1_a": 255,
+                "color1_b": 117,
+                "color1_g": 105,
+                "color1_r": 23,
+                "color2_a": 255,
+                "color2_b": 13,
+                "color2_g": 63,
+                "color2_r": 6,
+                "color3_a": 255,
+                "color3_b": 9,
+                "color3_g": 28,
+                "color3_r": 20
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 571,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_34": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 18,
+                "color0_g": 9,
+                "color0_r": 7,
+                "color1_a": 255,
+                "color1_b": 103,
+                "color1_g": 117,
+                "color1_r": 23,
+                "color2_a": 255,
+                "color2_b": 43,
+                "color2_g": 165,
+                "color2_r": 97,
+                "color3_a": 255,
+                "color3_b": 9,
+                "color3_g": 26,
+                "color3_r": 28
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 572,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_35": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 92,
+                "color0_g": 45,
+                "color0_r": 35,
+                "color1_a": 255,
+                "color1_b": 128,
+                "color1_g": 124,
+                "color1_r": 108,
+                "color2_a": 255,
+                "color2_b": 113,
+                "color2_g": 75,
+                "color2_r": 51,
+                "color3_a": 255,
+                "color3_b": 58,
+                "color3_g": 46,
+                "color3_r": 39
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 579,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_36": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 20,
+                "color0_g": 20,
+                "color0_r": 20,
+                "color1_a": 255,
+                "color1_b": 26,
+                "color1_g": 26,
+                "color1_r": 26,
+                "color2_a": 255,
+                "color2_b": 47,
+                "color2_g": 14,
+                "color2_r": 26,
+                "color3_a": 255,
+                "color3_b": 76,
+                "color3_g": 76,
+                "color3_r": 76
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 581,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_37": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 128,
+                "color0_g": 128,
+                "color0_r": 128,
+                "color1_a": 255,
+                "color1_b": 128,
+                "color1_g": 128,
+                "color1_r": 128,
+                "color2_a": 255,
+                "color2_b": 128,
+                "color2_g": 128,
+                "color2_r": 128,
+                "color3_a": 255,
+                "color3_b": 128,
+                "color3_g": 128,
+                "color3_r": 128
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 1108,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_38": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 255,
+                "color0_g": 255,
+                "color0_r": 255,
+                "color1_a": 255,
+                "color1_b": 255,
+                "color1_g": 255,
+                "color1_r": 255,
+                "color2_a": 255,
+                "color2_b": 197,
+                "color2_g": 216,
+                "color2_r": 232,
+                "color3_a": 255,
+                "color3_b": 208,
+                "color3_g": 225,
+                "color3_r": 232
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 1113,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_39": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 255,
+                "color0_g": 255,
+                "color0_r": 255,
+                "color1_a": 255,
+                "color1_b": 255,
+                "color1_g": 255,
+                "color1_r": 255,
+                "color2_a": 255,
+                "color2_b": 141,
+                "color2_g": 155,
+                "color2_r": 162,
+                "color3_a": 255,
+                "color3_b": 211,
+                "color3_g": 215,
+                "color3_r": 222
+            },
+            "custom_name": "",
+            "def_index": 516,
+            "paint_kit": 1118,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_4": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 18,
+                "color0_g": 9,
+                "color0_r": 7,
+                "color1_a": 255,
+                "color1_b": 103,
+                "color1_g": 117,
+                "color1_r": 23,
+                "color2_a": 255,
+                "color2_b": 43,
+                "color2_g": 165,
+                "color2_r": 97,
+                "color3_a": 255,
+                "color3_b": 9,
+                "color3_g": 26,
+                "color3_r": 28
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 572,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_40": {
+            "def_index": 32770,
+            "paint_kit": 4790
+        },
+        "slot_5": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 92,
+                "color0_g": 45,
+                "color0_r": 35,
+                "color1_a": 255,
+                "color1_b": 128,
+                "color1_g": 124,
+                "color1_r": 108,
+                "color2_a": 255,
+                "color2_b": 113,
+                "color2_g": 75,
+                "color2_r": 51,
+                "color3_a": 255,
+                "color3_b": 58,
+                "color3_g": 46,
+                "color3_r": 39
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 579,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_6": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 20,
+                "color0_g": 20,
+                "color0_r": 20,
+                "color1_a": 255,
+                "color1_b": 26,
+                "color1_g": 26,
+                "color1_r": 26,
+                "color2_a": 255,
+                "color2_b": 47,
+                "color2_g": 14,
+                "color2_r": 26,
+                "color3_a": 255,
+                "color3_b": 76,
+                "color3_g": 76,
+                "color3_r": 76
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 581,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_7": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 128,
+                "color0_g": 128,
+                "color0_r": 128,
+                "color1_a": 255,
+                "color1_b": 128,
+                "color1_g": 128,
+                "color1_r": 128,
+                "color2_a": 255,
+                "color2_b": 128,
+                "color2_g": 128,
+                "color2_r": 128,
+                "color3_a": 255,
+                "color3_b": 128,
+                "color3_g": 128,
+                "color3_r": 128
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 1106,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_8": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 255,
+                "color0_g": 255,
+                "color0_r": 255,
+                "color1_a": 255,
+                "color1_b": 255,
+                "color1_g": 255,
+                "color1_r": 255,
+                "color2_a": 255,
+                "color2_b": 197,
+                "color2_g": 216,
+                "color2_r": 232,
+                "color3_a": 255,
+                "color3_b": 208,
+                "color3_g": 225,
+                "color3_r": 232
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 1111,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        },
+        "slot_9": {
+            "colors": {
+                "color0_a": 255,
+                "color0_b": 255,
+                "color0_g": 255,
+                "color0_r": 255,
+                "color1_a": 255,
+                "color1_b": 255,
+                "color1_g": 255,
+                "color1_r": 255,
+                "color2_a": 255,
+                "color2_b": 141,
+                "color2_g": 155,
+                "color2_r": 162,
+                "color3_a": 255,
+                "color3_b": 211,
+                "color3_g": 215,
+                "color3_r": 222
+            },
+            "custom_name": "",
+            "def_index": 512,
+            "paint_kit": 1116,
+            "seed": 0,
+            "souvenir": false,
+            "stattrak": {
+                "enabled": false,
+                "value": 0
+            },
+            "wear": 0.0
+        }
+    },
+    "misc": {
+        "aspect_ratio": false,
+        "aspect_ratio_size": 0.0,
+        "auto_accept": false,
+        "bhop": false,
+        "unlock_inventory": false
+    },
+    "profile": {
+        "ban_time": 0,
+        "ban_type": 0,
+        "friendly": -1,
+        "leader": -1,
+        "level": -1,
+        "rank_danger_zone": 0,
+        "rank_mm": 0,
+        "rank_wigman": 0,
+        "teacher": -1,
+        "wins_danger_zone": -1,
+        "wins_mm": -1,
+        "wins_wigman": -1,
+        "xp": -1
+    }
+}
